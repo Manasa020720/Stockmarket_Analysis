@@ -1,0 +1,13 @@
+{
+    "look_back": 60,
+    "feature_columns": [
+        "Open",
+        "High",
+        "Low",
+        "Adj Close",
+        "Volume",
+        "Close"
+    ],
+    "target_name": "Close",
+    "freq": "B"
+}
